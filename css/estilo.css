@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: burlywood;
+}
+.insertarTabla{
+    width: 400px;
+}
+.logo{
+    width: 40px;
+}
+.imagenTamaño{
+    width: 150px;
+}
